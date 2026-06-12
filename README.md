@@ -8,12 +8,7 @@
 
 ---
 
-I am a **MERN Stack Developer** from **Islamabad, Pakistan**.
-
-I build full-stack web applications with **clean interfaces**, **secure authentication**, **REST APIs**, and **practical backend logic**.
-
-I am currently focused on improving my skills in **React.js, Node.js, Express.js, MongoDB, API development, authentication, and real-world project architecture**.
-
+I am a **MERN Stack Developer** .
 ---
 
 ## About Me
