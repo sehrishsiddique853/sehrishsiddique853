@@ -8,8 +8,6 @@
 
 ---
 
-I am a **MERN Stack Developer** .
----
 
 ## About Me
 
