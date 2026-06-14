@@ -9,8 +9,6 @@
 ---
 
 
-## About Me
-
  I’m currently working on **MERN stack web applications** and my **Local Food Charity System**
 
 I’m looking to collaborate on **React.js, Node.js, Express.js, and MongoDB projects**
