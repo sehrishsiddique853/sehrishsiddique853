@@ -11,15 +11,15 @@
 
 ## About Me
 
-🔭 I’m currently working on **MERN stack web applications** and my **Local Food Charity System**
+ I’m currently working on **MERN stack web applications** and my **Local Food Charity System**
 
-👯 I’m looking to collaborate on **React.js, Node.js, Express.js, and MongoDB projects**
+I’m looking to collaborate on **React.js, Node.js, Express.js, and MongoDB projects**
 
-🌱 I’m currently learning **advanced MERN stack development, REST API design, JWT authentication, and full-stack project architecture**
+ I’m currently learning **advanced MERN stack development, REST API design, JWT authentication, and full-stack project architecture**
 
-💬 Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and JWT authentication**
+ Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and JWT authentication**
 
-⚡ Fun fact: I enjoy building practical web apps that solve real-world problems
+I enjoy building practical web apps that solve real-world problems
 
 ---
 
