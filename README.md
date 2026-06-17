@@ -17,7 +17,7 @@ I’m looking to collaborate on **React.js, Node.js, Express.js, and MongoDB pro
 
  Ask me about **React.js, Node.js, Express.js, MongoDB, REST APIs, and JWT authentication**
 
-I enjoy building practical web apps that solve real-world problems
+I enjoy building practical web applications that solve real-world problems
 
 ---
 
